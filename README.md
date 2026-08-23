@@ -30,9 +30,6 @@ The objective is to evaluate whether LLM-generated narratives can communicate XA
 
 * Lucía Iriarte
 * Magdalena Cabrera
-
-### Supervisors
-
 * Fiorella Cravero
 * Gustavo E. Vazquez
 
