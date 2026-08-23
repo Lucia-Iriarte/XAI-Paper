@@ -14,8 +14,8 @@ The objective is to evaluate whether LLM-generated narratives can communicate XA
 
 ## Repository Contents
 
-* `paper.pdf` – Full research paper.
-* `poster.pdf` – Scientific poster presented at Iniciación a la Investigación 2026.
+* `XAI-Paper.pdf` – Full research paper.
+* `Poster.pdf` – Scientific poster presented at Iniciación a la Investigación 2026.
 
 ## Methodology
 
