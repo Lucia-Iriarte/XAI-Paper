@@ -1,4 +1,3 @@
-# XAI-Paper
 # Explainable Toxicity Prediction Through XAI and LLMs
 
 This repository contains the materials associated with the research project:
